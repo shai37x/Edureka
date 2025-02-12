@@ -16,6 +16,6 @@ Projects1:
 ## How to Run the Analysis
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/BookingsSessionsAnalysis.git
+   git clone https://github.com/shai37x/Edureka.git
    cd BookingsSessionsAnalysis
 
